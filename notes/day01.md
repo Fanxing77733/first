@@ -104,7 +104,7 @@ public static <T> Result<T> success() {
 - 返回：{"code":0, "msg":"用户ID不合法", "data":null}
 ![img_6.png](img_6.png)
 
-Nginx的反代理
+Nginx的反代理![img_8.png](img_8.png)
 前端后端路径不一样但却可以进行访问
 是因为nginx进行了配置
 nginx还有好处
